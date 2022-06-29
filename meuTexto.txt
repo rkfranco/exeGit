@@ -1,2 +1,3 @@
-Estou mexendo com GIT!
+
 Olá, GIT!
+Git é muito legal!
